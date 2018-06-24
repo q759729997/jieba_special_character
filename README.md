@@ -10,6 +10,7 @@
 
   - 修改jieba根目录 包括init(参考：jieba__init__.py)和词表(参考：jieba_dict.txt)
   - 修改posseg目录 包括init(参考：posseg__init__.py)
+  - 自定义示例词典：my_dict.txt
   - 参考网站 https://github.com/fxsjy/jieba/issues/423
 ~~~
 打开默认词典（根目录）或自定义词典，把所有用来间隔词频和词性的空格间隔符改成@@
